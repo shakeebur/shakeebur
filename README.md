@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Shakeeb
-#### Computer engineering grad exploring different tech and programming platforms. Passionate about learning and creating innovative solutions.
-Passionate about learning and creating innovative solutions.
+## Hi there 👋, my name is Shakeeb
+#### Computer engineering grad exploring different tech and programming platforms. 
+#### Passionate about learning and creating innovative solutions.
 
 Skills: REACT / JS / HTML / CSS / C
 
